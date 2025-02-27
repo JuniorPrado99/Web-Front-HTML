@@ -1,0 +1,15 @@
+/*EXERCÍCIO 17/*
+/*Estilos para a tabela */
+table {
+    border: 3px solid rgb(0, 0, 0);
+    background-coLOR: rgb(152, 152, 188);
+    width: 50%;
+    margin: 20px auto;
+    border-collapse;
+}
+
+th, td {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 8px;
+    text-align: center;
+}

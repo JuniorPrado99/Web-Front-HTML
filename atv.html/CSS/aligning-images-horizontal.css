@@ -1,0 +1,14 @@
+/*Estilo para alinhar as imagens horizontalmente */
+<style>
+    .image-container{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .image-container img{
+        width: 200px;
+        height: auto;
+        margin: 10px;
+    }
+</style>
